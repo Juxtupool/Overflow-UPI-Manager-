@@ -8,7 +8,7 @@ Copy all the UPI Transactions SMS to a File and make it into Bill.txt and add to
 
 Then run the commands below
 
-pip install openpyxl
+pip install openpyxl(need to run onyl for the first time)
 
 py ExpenseV3.py
 
