@@ -1,5 +1,6 @@
 # Overflow
-Simple python script for expense management
+Simple python script for expense management.
+
 This Converts your UPI SMSs into a Excel Format for easy viewing of Expenses
 
 # Execution
