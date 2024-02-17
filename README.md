@@ -1,4 +1,4 @@
-# Overflow
+# UPI Manager on Spreadsheet
 Simple python script for expense management.
 
 This Converts your UPI SMSs into a Excel Format for easy viewing of Expenses
